@@ -9,10 +9,10 @@ export default function Counter(){
     }
 
     const counterStyle = {
-        border:'2px solid orange'
+        border:'2px solid gold'
     }
     return(
-       <div style={counterStyle}>
+       <div style={counterStyle} className="card">
         <h3>Count: {count}</h3>
         <button onClick={handleAdd}>Add</button>
     </div> 
