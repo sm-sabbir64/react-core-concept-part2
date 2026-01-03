@@ -43,11 +43,15 @@
 
 .card{
   border: 2px solid gold;
-  margin: 10px;
-  padding: 10px;
+  margin: 30px;
+  
   border-radius: 20px;
 }
 
 .button-space{
   gap: 10px;
+}
+
+.font {
+  font-size: 30px;
 }

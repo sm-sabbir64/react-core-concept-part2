@@ -27,7 +27,7 @@ export default function Batsman() {
 
   return (
     <div className="card">
-      <h2>Player: Bangla Batsman</h2>
+      <h2>Player: Bangladeshi Batsman</h2>
       <p>
         <small>
           Six: {sixes} Four: {four} Singles: {single}
